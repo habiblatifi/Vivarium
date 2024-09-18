@@ -1,4 +1,4 @@
-# CMV ODE System - Vivarium Framework
+#  Vivarium Framework - CMV ODE System
 
 This repository contains the initial implementation of the **Predator-Prey dynamic system** using the **Vivarium framework**, as a starting point toward the ultimate goal of developing and simulating the **CMV ODE system**. The Predator-Prey system serves as a foundational example to demonstrate how Vivarium can model dynamic biological systems.
 
