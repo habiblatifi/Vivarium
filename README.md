@@ -35,8 +35,8 @@ This project begins with the **Predator-Prey system**, modeled using the Vivariu
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/cmv-ode-vivarium.git
-    cd cmv-ode-vivarium
+    git clone https://github.com/your_username/Vivarium.git
+    cd Vivarium
     ```
 
 2. Install the required Python packages:
