@@ -4,12 +4,9 @@ This repository contains the initial implementation of the **Predator-Prey dynam
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Files](#files)
 - [Future Work: CMV ODE System](#future-work-cmv-ode-system)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
