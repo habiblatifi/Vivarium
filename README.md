@@ -16,12 +16,6 @@ This repository contains the initial implementation of the **Predator-Prey dynam
 
 This project begins with the **Predator-Prey system**, modeled using the Vivarium framework, to build familiarity with dynamic system modeling. The ultimate goal of this project is to implement a **Cytomegalovirus (CMV) ODE system**, which will simulate viral dynamics and immune interactions at multiple scales. The Predator-Prey model is an essential first step in validating the approach and understanding how Vivarium handles system topologies, time-series data, and modular process definitions.
 
-## Features
-- **Dynamic Simulation**: The predator-prey interaction is simulated over a configurable time period, using **Lotka-Volterra equations**.
-- **Visualizations**:
-  - **Time-series plots** of population dynamics.
-  - **Topology visualizations** representing the interaction between system components.
-- **Vivarium-based Modeling**: Demonstrates how to structure biological systems in a modular, composable way using the Vivarium framework.
 
 ## Installation
 
